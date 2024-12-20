@@ -1,0 +1,9 @@
+{
+    "name": "damoser1/url-library",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "cocur/slugify": "~v4.4"
+    }
+}
